@@ -7,14 +7,14 @@
     tools:context=".MainActivity"
     android:orientation="vertical"
     android:gravity="center"
-    android:padding="30dp"
+    android:padding="31dp"
     android:background="@color/secondary_color">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="-200dp"
-        android:text="Convertir de Metros a Pies"
+        android:text="@string/titulo"
         android:textSize="30sp"
         android:textColor="@color/primary_color"
         android:layout_gravity="center"

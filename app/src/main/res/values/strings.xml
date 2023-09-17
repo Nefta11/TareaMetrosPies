@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">TareaMetrosPies</string>
+    <string name="titulo">Convertir de Metros a Pies</string>
     <string name="hint_metros">Introduce la cantidad en metros</string>
     <string name="btn_convertir">Convertir a Pies</string>
     <string name="resultado_label">Resultado:</string>
